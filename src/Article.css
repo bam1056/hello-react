@@ -3,10 +3,13 @@
   font-size: 25px;
   flex: 1;
   background-image: url('./background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .Article p {
-  margin: 50px;
-  color: black;
-  font-size: 2em;
+  margin: 50px 200px;
+  color: white;
+  text-shadow: 5px 5px 5px rgb(0, 101, 178);
+  font-size: 1.75em;
 }

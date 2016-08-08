@@ -1,5 +1,5 @@
 .Footer {
-  border: 3px solid white;
+  border: 8px solid white;
 }
 footer {
   display: flex;
@@ -32,4 +32,5 @@ ul{
  .footerNav a {
    color: white;
    text-decoration: none;
+   font-size: 20px;
  }
