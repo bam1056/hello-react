@@ -1,0 +1,35 @@
+.Footer {
+  border: 3px solid white;
+}
+footer {
+  display: flex;
+  background-color: darkblue;
+  color: white;
+  font-size: 35px;
+  align-items: center;
+  justify-content: space-between;
+}
+.footerLogo {
+  display: flex;
+  align-items: center;
+}
+ h6 {
+   margin-left: 25px;
+ }
+img {
+  margin-left: 20px;
+}
+
+ul{
+   display: flex;
+   margin-right: 50px;
+ }
+
+ li {
+   align-content: flex-end;
+ }
+
+ .footerNav a {
+   color: white;
+   text-decoration: none;
+ }

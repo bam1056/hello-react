@@ -1,0 +1,12 @@
+.Article {
+  text-align: left;
+  font-size: 25px;
+  flex: 1;
+  background-image: url('./background.jpg');
+}
+
+.Article p {
+  margin: 50px;
+  color: black;
+  font-size: 2em;
+}
