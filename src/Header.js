@@ -4,7 +4,7 @@ import './Header.css';
 class Header extends Component {
   render() {
     return (
-      <div className="appHeader">
+      <div className="Header">
         <h1>Brett's Blog</h1>
         <ul className="links">
           <li><a href="#">About Me</a></li>
